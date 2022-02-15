@@ -1,0 +1,25 @@
+- 👋 Hi, I’m @Monikapolavarapu123
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+a=int(input("enter the value for a"))
+b=int(input(" enter the value for b"))
+c=a//b
+print(c)
+d=a/b
+printint(input("enter the value for a"))
+b=int(input(" enter the value for b"))
+c=a//b
+print(c)
+d=a/b
+print(d)
+
+enter the value for a
+1
+enter the value for b
+2
+0
+0.5
+
